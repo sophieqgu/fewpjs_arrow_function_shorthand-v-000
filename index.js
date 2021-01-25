@@ -1,2 +1,2 @@
 const divide = (x, y) => { x / y };
-const 
+const square = x => { x ** 2 };
